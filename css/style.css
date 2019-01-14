@@ -1,15 +1,17 @@
 body {
  margin: 0;
+
 }
 
 .container {
 	width: 500px;
-	height: 730px;
+	/*height: 690px;*/
 	font: Georgia, "Times New Roman", Times, serif;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #0033ff;
+	border-color: #f6f6f6;
 	margin: 0 auto;
+	margin-bottom: 6px;
 	padding: 0;
 }
 
@@ -61,7 +63,7 @@ body {
 
 .Fact {
 	margin-top: -7px;
-	margin-left: 3px;
+	/*margin-left: 3px;*/
 }
 .Fact h4 {
 	margin-left: 4px;
@@ -145,10 +147,10 @@ margin-top: 60px;
 .comment textarea {
 	border-color: #ececec;
 	resize:none;
-	
+
 }
 
 table {
-	margin-left: 2px;
+	/*margin-left: 2px;*/
 	margin-top: -3px;
 }
