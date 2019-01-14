@@ -144,6 +144,8 @@ margin-top: 60px;
 
 .comment textarea {
 	border-color: #ececec;
+	resize:none;
+	
 }
 
 table {
