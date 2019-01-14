@@ -1,17 +1,15 @@
 body {
  margin: 0;
-
 }
 
 .container {
 	width: 500px;
-	/*height: 690px;*/
+	height: 730px;
 	font: Georgia, "Times New Roman", Times, serif;
 	border-width: 1px;
 	border-style: solid;
-	border-color: #f6f6f6;
+	border-color: #0033ff;
 	margin: 0 auto;
-	margin-bottom: 6px;
 	padding: 0;
 }
 
@@ -61,34 +59,34 @@ body {
 	clear: both;
 }
 
-.Fact {
+.fact {
 	margin-top: -7px;
-	/*margin-left: 3px;*/
+	margin-left: 3px;
 }
-.Fact h4 {
+.fact h4 {
 	margin-left: 4px;
 }
 
-.Facts {
+.facts {
   list-style: none;
 }
 
-.Facts li{
+.facts li{
   margin-left: -5px;
   padding: 2px;
   line-height: 16px;
   margin-right: 40px;
 }
 
-.Fact ul {
+.fact ul {
 	margin-top: -3px;
 }
 
-.Facts li:before {
+.facts li:before {
 	content: url("images/pic_star.png");
 }
 
-.Act__inner {
+.act__inner {
 margin-top: 60px;
 }
 
@@ -96,36 +94,36 @@ margin-top: 60px;
 	margin-top: 0px;
 }
 
-.Act__inner img {
+.act__inner img {
 	position: relative;
   width: auto;
   padding-left: 2px;
   padding-right: 2px;
 }
 
-.Act__inner ul {
+.act__inner ul {
 	position: absolute;
 	list-style-type: none;
 	margin-top: -55px;
   margin-left: -20px;
 }
 
-.Activitys a {
+.activitys a {
 	text-decoration-line: none;
 }
 
-.Activitys p {
+.activitys p {
   position: absolute;
   margin-top: -15px;
   font-size: smaller;
   margin-left: 55px;
 }
 
-.Your-comment {
+.your-comment {
 	margin-top: 20px;
 }
 
-.Your-comment p {
+.your-comment p {
 	text-align: center;
 	font-size: larger;
 	margin-bottom: 0px;
@@ -146,11 +144,9 @@ margin-top: 60px;
 
 .comment textarea {
 	border-color: #ececec;
-	resize:none;
-
 }
 
 table {
-	/*margin-left: 2px;*/
+	margin-left: 2px;
 	margin-top: -3px;
 }
