@@ -28,9 +28,7 @@ body {
 
 .center-text {
 	position: absolute;
-  top: 50%;
-  margin-left: 56px;
-  transform: translate(-50%, -50%);
+	margin-top: -47px;
 }
 
 .avatar {
@@ -54,6 +52,7 @@ body {
 
 .profile ul {
 	padding-left: 10px;
+	list-style-type: none;
 }
 
 .clear-profile {
