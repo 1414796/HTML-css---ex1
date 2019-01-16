@@ -1,10 +1,12 @@
 body {
  margin: 0;
+ padding-top: 6px;
+ padding-bottom: 6px;
 }
 
 .container {
 	width: 500px;
-	height: 730px;
+	height: auto;
 	font: Georgia, "Times New Roman", Times, serif;
 	border-width: 1px;
 	border-style: solid;
@@ -52,6 +54,8 @@ body {
 
 .profile ul {
 	padding-left: 10px;
+	margin-top: 0px;
+    margin-bottom: 0px;
 	list-style-type: none;
 }
 
@@ -143,6 +147,8 @@ margin-top: 60px;
 }
 
 .comment textarea {
+	width: 370px;
+    resize: none;
 	border-color: #ececec;
 }
 
